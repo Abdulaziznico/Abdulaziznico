@@ -2,5 +2,5 @@
 
 I'm newbie. <br />
 I am currently studying Frontend development. <br />
-<code> <img src="https://icon2.cleanpng.com/20180614/gah/aa7t649yf.webp" width="30px" > </code>
+<code> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width="30px" > </code>
 <code> <img src="https://toppng.com/uploads/preview/bootstrap-social-media-icons-html-css-js-logo-11563293145uql7yehdq3.png" width="30px" > </code>
