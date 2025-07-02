@@ -4,4 +4,4 @@ I'm newbie. <br />
 I am currently studying Frontend development. <br />
 <code> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width="30px" > </code>
 <code> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" width="30px" > </code>
-<code> <img src="https://e7.pngegg.com/pngimages/726/609/png-clipart-logo-css3-cascading-style-sheets-html-tonic-miscellaneous-angle-thumbnail.png" width="30px" > </code>
+<code> <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo-black-and-white.png" width="30px" > </code>
