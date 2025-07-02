@@ -2,5 +2,5 @@
 
 I'm newbie. <br />
 I am currently studying Frontend development. <br />
-<code> <img src="https://images.seeklogo.com/logo-png/17/2/html5-with-wordmark-blackwhite-logo-png_seeklogo-176954.png" width="30px" > </code>
+<code> <img src="https://upload.wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/800px-HTML5_logo_black.svg.png" width="30px" > </code>
 <code> <img src="https://images.seeklogo.com/logo-png/44/1/css-logo-png_seeklogo-441349.png" width="30px" > </code>
