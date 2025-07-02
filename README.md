@@ -2,5 +2,5 @@
 
 I'm newbie
 I am currently studying Frontend development. <br />
-<code> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Ffree-vector-logos%2Fhtml&psig=AOvVaw1Ys7T92eITr9qjpwV0ZFjl&ust=1751552552965000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjIu_Gvno4DFQAAAAAdAAAAABAE" width="100px" >
-<code> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F441349%2Fcss&psig=AOvVaw1Im7eiu2qFSKjqBWLhAAat&ust=1751552609322000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCjpY2wno4DFQAAAAAdAAAAABAE" width="100px" >
+<code> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Ffree-vector-logos%2Fhtml&psig=AOvVaw1Ys7T92eITr9qjpwV0ZFjl&ust=1751552552965000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjIu_Gvno4DFQAAAAAdAAAAABAE" width="100px" > </code>
+<code> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F441349%2Fcss&psig=AOvVaw1Im7eiu2qFSKjqBWLhAAat&ust=1751552609322000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCjpY2wno4DFQAAAAAdAAAAABAE" width="100px" > </code>
