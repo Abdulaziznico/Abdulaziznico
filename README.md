@@ -7,5 +7,5 @@ I am currently studying Frontend development. <br />
 <code> <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo-black-and-white.png" width="45px" > </code>
 
 <br />
-- 📍 &nbsp; Current location: Andijan, Uzbekistan
+- 📍 &nbsp; Current location: Andijan, Uzbekistan <br />
 - 🎮 &nbsp; I love RPG games
