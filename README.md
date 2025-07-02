@@ -3,4 +3,4 @@
 I'm newbie. <br />
 I am currently studying Frontend development. <br />
 <code> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width="30px" > </code>
-<code> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGNcROPazO1jI9SFGLW0xdtny_KZfkM-wtLA&s" width="30px" > </code>
+<code> <img src="https://toppng.com/uploads/preview/bootstrap-social-media-icons-html-css-js-logo-11563293145uql7yehdq3.png" width="30px" > </code>
