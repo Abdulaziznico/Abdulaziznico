@@ -8,3 +8,4 @@ I am currently studying Frontend development. <br />
 
 <br />
 - 📍 &nbsp; Current location: Andijan, Uzbekistan
+- 🎮 &nbsp; I love RPG games
