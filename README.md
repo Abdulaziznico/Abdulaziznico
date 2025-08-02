@@ -6,5 +6,4 @@ I'm a beginner in programming and currently focused on learning Frontend develop
 <code> <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo-black-and-white.png" width="45px" > </code>
 
 <br />
-- 📍 &nbsp;  Based in Andijan, Uzbekistan <br/>
-- 🎮 &nbsp; Passionate about RPG games
+- 📍 &nbsp;  Based in Andijan, Uzbekistan
